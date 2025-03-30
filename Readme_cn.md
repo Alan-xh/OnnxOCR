@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # [<img src="https://api.gitsponsors.com/api/badge/img?id=664003098" height="20">](https://api.gitsponsors.com/api/badge/link?p=psyU8QKLdPFIXL5mH9zMDyUyKCplzzjvGZmQGR1EP9XqeHTfZABshV11OQc8amwRrwoxzfcv9Jcx1B8EWgq5uTEi2GFhOBFpaDZvz5ehFbT4NTKnREOPdemaGeuSg+vUmNxlGcucvAUtn4AByFmHyQ==)
 # 如果项目对您有帮助，麻烦右上角点个Star呗
 # OnnxOCR
+=======
+# 如果项目对您有帮助，麻烦右上角点个Star呗
+# onnxOCR
+>>>>>>> 74123dc (renew)
 
 #### 版本更新
 PPOCRv4模型转onnx模型推理，精度和性能更高，推理速度比使用paddlepaddle框架快5倍
@@ -24,6 +29,7 @@ PPOCRv4模型转onnx模型推理，精度和性能更高，推理速度比使用
 
     python test_ocr.py
 
+<<<<<<< HEAD
 #### 四.API Service(cpu示例)
 运行服务示例：
 
@@ -93,6 +99,8 @@ url: ip:5006/ocr
 }
 ```
 
+=======
+>>>>>>> 74123dc (renew)
 #### 效果展示
 
 ![Alt text](result_img/draw_ocr_1.jpg)
@@ -106,6 +114,7 @@ url: ip:5006/ocr
 ![Alt text](result_img/draw_ocr5.jpg)
 
 ![Alt text](result_img/draw_ocr.jpg)
+<<<<<<< HEAD
 ##
 ##
 ##
@@ -119,12 +128,15 @@ url: ip:5006/ocr
 
 ##### QQ群
 ![alt text](onnxocr/test_images/QQ群.jpg)
+=======
+>>>>>>> 74123dc (renew)
 
 #### 感谢PaddleOcr
 
 https://github.com/PaddlePaddle/PaddleOCR
 
 
+<<<<<<< HEAD
 ## 写在最后
 我喜欢开源，喜欢AI技术，因为我认为开源和AI会为有需要的人带来方便和帮助，也会让这个世界变得更好。通过对这些项目的捐赠，您可以和我一道让AI为更多人带来温暖和美好。
 
@@ -138,6 +150,8 @@ I like open source and AI technology because I think open source and AI will bri
 
 
 
+=======
+>>>>>>> 74123dc (renew)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=jingsongliujing/OnnxOCR&type=Date)](https://star-history.com/#jingsongliujing/OnnxOCR&Date)

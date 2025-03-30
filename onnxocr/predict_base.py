@@ -7,9 +7,15 @@ class PredictBase(object):
     def get_onnx_session(self, model_dir, use_gpu):
         # 使用gpu
         if use_gpu:
+<<<<<<< HEAD
             providers =[('CUDAExecutionProvider',{"cudnn_conv_algo_search": "DEFAULT"}),'CPUExecutionProvider']
         else:
             providers =['CPUExecutionProvider']
+=======
+            providers = providers=['CUDAExecutionProvider']
+        else:
+            providers = providers = ['CPUExecutionProvider']
+>>>>>>> 74123dc (renew)
 
         onnx_session = onnxruntime.InferenceSession(model_dir, None,providers=providers)
 
@@ -49,4 +55,8 @@ class PredictBase(object):
         input_feed = {}
         for name in input_name:
             input_feed[name] = image_numpy
+<<<<<<< HEAD
         return input_feed
+=======
+        return input_feed
+>>>>>>> 74123dc (renew)

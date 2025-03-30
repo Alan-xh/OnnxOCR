@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # [<img src="https://api.gitsponsors.com/api/badge/img?id=664003098" height="20">](https://api.gitsponsors.com/api/badge/link?p=psyU8QKLdPFIXL5mH9zMDyUyKCplzzjvGZmQGR1EP9XqeHTfZABshV11OQc8amwRrwoxzfcv9Jcx1B8EWgq5uTEi2GFhOBFpaDZvz5ehFbT4NTKnREOPdemaGeuSg+vUmNxlGcucvAUtn4AByFmHyQ==)
 English | [简体中文](./Readme_cn.md) |
 # If you find it useful, please give it a Star.
+=======
+English | [简体中文](./Readme_cn.md) |
+# If you find it useful, please give it a Star.
+
+>>>>>>> 74123dc (renew)
 # ONNXOCR
 #### Universal OCR, supporting inference in over 80 languages.
 Version Update
@@ -25,6 +31,7 @@ Effect Display
 
 ![Alt text](result_img/draw_ocr5.jpg)
 
+<<<<<<< HEAD
 
 
 
@@ -68,6 +75,11 @@ I like open source and AI technology because I think open source and AI will bri
     </figure>
 </div>
 
+=======
+![Alt text](result_img/draw_ocr.jpg)
+
+
+>>>>>>> 74123dc (renew)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=jingsongliujing/OnnxOCR&type=Date)](https://star-history.com/#jingsongliujing/OnnxOCR&Date)

@@ -1,0 +1,377 @@
+/Users/xiaohui/opt/anaconda3/envs/cv/bin/python /Users/xiaohui/Documents/project/OnnxOCR/pdf_ocr.py
+高三英语试卷参考答案
+听力部分录音材料
+听力部分。该部分分为第一、第二两节。
+注意：做题时，先将答案标在试卷上。录音内容结束后，你将有两分钟的时间将试卷上的答案转
+涂到答题卡上。
+停顿00'10"
+现在是听力试音时间。
+M.Hello. International Friends Club. Can I help you?
+W:Oh, hello. I read about your club in the paper today and I thought I'd phone to find out a
+bit more.
+M:Yes, certainly. Well, we are a sort of social club for people from different countries. It's
+quite a new club—we have about 50 members at the moment, but we are growing all the
+time.
+W:That sounds interesting. I'm British actually, and I came to Washington about three
+months ago. I'm looking for ways to meet people. Er, what kinds of events do you
+organize?
+M. Well, we have social get-togethers, and sports events, and we also have language evenings.
+W:Could you tell me something about the language evenings?
+M: Yes. Every day except Thursday we have a language evening. People can come and practice
+their languages—you know, over a drink or something. We have different languages on
+different evenings. Monday—Spanish; Tuesday—Italian; Wednesday—German; and
+Friday—French. On Thursday we usually have a meal in a restaurant for anyone who
+wants to come.
+W:Well, that sounds great. I really need to practice my French.
+M: OK. Well, if you can just give me your name and address, I'll send you the form and some
+more information. If you join now, you can have the first month free.
+试音到此结束。
+听力考试正式开始。
+停顿00'10"
+请看听力部分第一节。
+第一节
+听下面5段对话。每段对话后有一个小题，从题中所给的A、B、C三个选项中选出最佳选项。
+听完每段对话后，你都有10秒钟的时间来回答有关小题和阅读下一小题。每段对话仅读一遍。
+停顿00'02"
+【高三英语·参考答案第1页(共10页)】
+total time: 2.003
+0处理完成
+例如：现在你有5秒钟的时间看试卷上的例题。
+停顿00'05"
+你将听到以下内容：
+M.Excuse me. Can you tell me how much the shirt is?
+W: Yes, it's nine fifteen.
+停顿00'02"
+你将有5秒钟的时间将正确答案标在试卷上。
+停顿00'05"
+衬衫的价格为9镑15便土，所以你选择C项，并将其标在试卷上。
+现在，你有5秒钟的时间阅读第1小题的有关内容。
+停顿00'05"
+(Text 1)
+W:You look terrible. What on earth is the matter?
+M.I was up all last night writing my report.
+(Text 2)
+M. This tie isn't bad. How much is it?
+W:It's $36. 95.
+M.: $ 36. 95? Well, maybe I don't really need a tie. Thanks, anyway.
+(Text 3)
+M. What do you think of Mary?
+W: In my opinion, Mary is better as a manager rather than as a headmaster. Her organizational
+skills and ability make her a natural fit for managing projects and teams effectively.
+(Text 4)
+W:Pete, can you come and play football?
+M.Sorry, I can't. I've injured my ankle.
+W:Oh, no! Did you fall off your bike?
+M. No, actually I fell down as I was walking down the stairs.
+(Text 5)
+M. What are you doing, Mary?
+W:I'm writing an email to my dad.
+M:Aren't you going to the cinema with me?
+W:Yes, of course. I'll be ready in a few minutes.
+第一节到此结束。
+第二节
+听下面5段对话或独白。每段对话或独白后有几个小题，从题中所给的A、B、C三个选项中选
+出最佳选项。听每段对话或独白前，你将有时间阅读各个小题，每小题5秒钟；听完后，各小题
+【高三英语·参考答案第2页(共10页)】
+total time: 1.591
+1处理完成
+将给出5秒钟的作答时间。每段对话或独白读两遍。
+听下面一段对话，回答第6和第7两个小题。现在，你有10秒钟的时间阅读这两个小题。
+(Text 6)
+W:Gavin, have you finished your homework? You know your grandparents are coming today,
+right? We need to prepare the spare room for them and get some food ready. I'll need your
+assistance.
+M.Sure, I can help with putting on the sheets and quilts. But isn't the house already clean?
+W:Not really, there are still some areas that need cleaning.
+M.Well, I did some cleaning like you asked last week, but I also have homework to do.
+Besides, I need to go to the store to buy a pen. Mine just broke. So, I'm quite busy at the
+moment.
+W:Alright, I understand.
+听下面一段对话，回答第8和第9两个小题。现在，你有10秒钟的时间阅读这两个小题。
+(Text 7)
+M. Do you know why I love Sundays, Mom?
+W:Of course, Joney. It's because you don't have to go to school today.
+'shepns uo gooyos 0n o on aa1y 1uop ose I anq ‘nn s teu:N
+W: Well, don't tell me it's because there are sports on TV all day.
+M: You know me so well, Mom. No one understands me better.
+W:Oh, come on, don't even think about it. You promised to clean your room today.
+M.I will, I just need 30 minutes to find out who will win the basketball game, please?
+W:Alright, but only after you finish cleaning your room.
+听下面一段对话，回答第10至第12三个小题。现在，你有15秒钟的时间阅读这三个小题。
+(Text 8)
+W: Is that the latest magazine?
+M: Yes, it is. And there's an interesting article in it about a groundbreaking technology that
+might replace traditional earphones.
+W: What do you mean? How can anything replace earphones?
+M. Well, this new equipment is designed to change the way we listen to music. It allows
+sound to be delivered directly to your ears without the need for wearing any special devices.
+W: That sounds incredible! How does it work?
+M:A company has developed a system that can transmit audio signals within a certain range,
+so as long as you're within that range, you can hear the sound without anyone else being
+able to hear it. It's truly remarkable!
+W: Wow, that would be perfect for long car rides. Imagine driving and enjoying your favorite
+music while the kids sleep peacefully in the back seats.
+【高三英语·参考答案第3页(共10页)】
+total time: 2.334
+2处理完成
+M:Exactly! This technology would not only allow you to listen to music without disturbing
+others, but it also promises to make the listening experience more comfortable for your
+ears.
+W: This is truly amazing! I can't wait to experience it for myself.
+听下面一段对话，回答第13至第16四个小题。现在，你有20秒钟的时间阅读这四个小题。
+(Text 9)
+M.Phew! Finally, the term is over!
+S o a  a a iin u  n n e q su h i
+make it through this term. Chemistry has been particularly challenging for me.
+M:Yeah, I've struggled with it too. But we have overcome all the difficulties now. I'm
+looking forward to resting during the summer break.
+W:Me too. Any plans for the summer? I'm heading to the beach for over a week.
+M:Really? I'm also going to the beach for two weeks. My dad have a two-week vacation and
+the whole family is going together.
+W:I'm going with my friends. When are you going?
+M: My dad said he would be free next week. How about you?
+W: We're leaving tomorrow. We can't wait to get there. There are so many exciting things to
+do.
+M: Yeah, sounds amazing. Good luck with your trip.
+W: Thanks! You too.
+听下面一段独白，回答第17至第20四个小题。现在，你有20秒钟的时间阅读这四个小题。
+(Text 10)
+W: When my husband and I entered the cinema, I noticed that it was dark and challenging
+to find our seats. I observed that an elderly man who arrived before us was fortunate as he had
+a cane to assist him, similar to a blind person. I said to my husband that it was unusual for
+there to be no lights before the film started. My husband replied that there was also no music.
+And we wondered if it was an attempt to save money. We were seated in one of the rows near
+the entrance and could hear others passing by, but it was difficult to determine the number of
+audience members. It was evident that the cinema wasn't very crowded at that time of day.
+Gradually, my husband grew impatient, saying that it must be already two o'clock in the
+afternoon. I tried to see the time on my watch in the darkness and could barely make out that
+it was slightly past two. At that moment, the film began, but to our disappointment, there
+was a change. The second film, which we weren't interested in, was being shown first.
+第二节到此结束。
+现在，你有两分钟的时间将试卷上的答案转涂到答题卡上。
+听力部分到此结束。
+【高三英语·参考答案第4页(共10页)】
+total time: 2.369
+3处理完成
+试题答案
+听力：
+1—5CBBCB6—10AACAB11—15ACACA16—20BCCAB
+阅读：
+21—23ADD
+A篇：文章介绍了空心古树的生态价值及一些有代表性的实例，同时号召大家加入Woodland
+Trust保护它们。
+在历史上的各种用途(如制作长弓，作为牛舍、猪圈、儿童的游戏房和娱乐场所)是为了强调
+它们缺乏适当的保护。
+23.D【解析】推理判断题。文章主要介绍了空心古树的生态价值及一些有代表性的实例，并
+号召大家加入WoodlandTrust保护它们。由此可知，这篇文章最有可能来自一篇公益
+广告。
+24—27BDCA
+B篇：文章讲述了NabilahAbdullah学习制陶的故事。
+24.B【解析推理判断题。第一段提及Nabilah的日常活动是为了表明她对制陶工作的热情。
+25.D【解析】细节理解题。第二段提到Nabilah制作的胸针是通过将真的树叶压入陶土中制
+作的，这说明这些胸针是基于实物制作的。
+26.C【解析】主旨大意题。第三段主要讲述了Nabilah为了学习传统制陶技艺而进行的雨林
+求学之旅。
+27.A【解析】推理判断题。最后一段谈到Nabilah认为传承传统技艺是非常重要的，并且她认
+为这是她的使命，这体现了她对保护和传承传统技艺的责任感。
+28—31BCDA
+C篇：文章分析了2023年极度炎热的原因。
+28.B【解析】推理判断题。根据第一段可知，作者通过陈述2023年极度炎热的现象引出文章
+的话题。
+29.C【解析推理判断题。根据第二段最后一句可知，通常情况下，厄尔尼诺现象在其开始后
+一年对全球气温的影响更大。因此，2023年的厄尔尼诺现象可能会影响2024的全球温度。
+30.D【解析推理判断题。作者写第三段是为了分析2023年温度上升的可能的原因，包括火
+山喷发和阻挡光线的污染物减少。
+31.A【解析】词义推测题。根据语境可知，spike在此处意为“猛增”，指海平面的急剧上升。
+文中的rise和jump是答案提示词。
+32—35BCCB
+D篇：文章介绍了AI基于情景喜剧中的训练数据来识别讽刺的相关研究。
+32.B【解析推理判断题。根据第二段可知，Coler说他们（的技术)能够以可靠的方式识别讽
+【高三英语·参考答案第5页(共10页)】
+total time: 2.340
+4处理完成
+刺，并且他们渴望进一步发展这一技术，看看能把它推进到何种程度。由此可知，他对AI
+讽刺检测器的态度是乐观的。
+33.C【解析】推理判断题。根据第三段第二句可知，讽刺对我们交流的影响比我们所意识到
+的要大得多。因此，为了人类和机器顺利交流，理解讽刺是至关重要的。
+34.C【解析】细节理解题。根据第四段和第五段可知，在对情景喜剧中的不同场景的文本、音
+频和情感内容进行训练后，AI展示了一种令人印象深刻的检测讽刺的能力。
+35.B【解析】主旨大意题。文章主要介绍了AI基于情景喜剧中的训练数据来识别讽刺的相
+关研究。因此，“ANewFrontier of AI：DetectingSarcasm（人工智能的新领域：检测讽
+刺）”为文章的最佳标题。
+36—40CGEBD
+七选五：文章介绍了克服在观众面前表演时紧张情绪的方法。
+会经历紧张情绪。
+37.G【解析】G项（所以你要试着在表演前锻炼一会儿)说明了运动的好处，并与该段的主旨
+句关系紧密。
+38.E【解析E项(你的姿势可以极大地改变你的心情)与下文(所以尽量站直或坐直)为因果
+关系。
+39.B【解析该段建议你播放最喜欢的电影或滑稽的喜剧小品来帮助你放松。因此B项（看
+一个有趣的视频)为该段的最佳主旨句。
+并引出下文（然后，当时间到了，站起来，抖落紧张情绪，并且对自己说：“我能行!”）。
+完形填空：婚礼策划师Lindsey在准备一场户外婚礼时计划用帐篷应对雨天，但新婚夫妇因为
+预算紧未购买帐篷。婚礼那天午餐时遭遇了大雨，他们从中学到一个重要的教训：未雨绸缪。
+41.B【解析考查动词。在我的记忆中，我安排了各种各样的活动：我朋友的生日聚会、家庭
+圣诞聚会、甚至婚礼。
+42.C【解析】考查名词。解析参考上一题。
+43.D【解析】考查形容词。我特别喜欢最后的那些活动。
+44.B【解析】考查副词。我珍视相爱之人的微笑，享受婚礼的盛宴，所以最终顺理成章地成了
+一名婚礼策划师。
+45.A【解析考查形容词。通常来说，只有一件事会阻碍一场完美的婚礼，那就是大自然。
+46.C【解析】考查名词。这场结婚喜宴将在户外举行。
+47.D【解析】考查介词短语。我总是有一个备用计划：以防下雨。
+48.A【解析】考查动词。对于这场有140位客人的婚礼，（我的)备用计划是用一个帐篷来遮
+盖用餐区（以防下雨）。
+49.B【解析】考查名词。这对新婚夫妇决定不买帐篷，因为他们手头紧。
+【高三英语·参考答案第6页(共10页)】
+total time: 2.500
+5处理完成
+50.A【解析考查动词。天气频道预报中午降雨的概率为20%。
+51.C【解析考查动词。但后来，当客人们享用午餐时，我听到一声巨大的雷声，看到乌云聚
+集起来。
+52.D【解析】考查动词。解析参考上一题。
+53.B【解析】考查名词。然后随着大颗的雨滴落下，一切都陷人了混乱。
+54.C【解析】考查形容词。桌布和菜单都湿了。
+55.D【解析】考查动词。我和这对夫妇学到了一条重要的经验：未雨绸缪。
+56.which  57.were used 58.a  59.fifth  60.to honor
+61. its 62.resistant 63. formerly 64. participating 65. issues
+语法填空：
+56.which【解析】考查定语从句。此处应用which引导非限制性定语从句，指代前面的整个
+句子，which在从句中作主语。
+57.wereused【解析】考查时态和语态。此处应用一般过去时陈述过去发生的事情，use与主
+语是被动关系，故用一般过去时的被动语态。
+58.a【解析】考查冠词。此处应用不定冠词a来修饰名词distance。a total distance of..．意
+为“总距离为………”
+59.fifth【解析】考查序数词。根据句意可知,此处应用序数词 fifth 表示“第五"。
+作目的状语。
+61.its【解析】考查代词。此处应用形容词性物主代词its修饰名词construction。
+62.resistant【解析】考查形容词。beresistant to...是固定词组，意为“对·...·有抵抗力”
+63.formerly【解析】考查副词。此处应用副词formerly修饰动词built。
+64.participating【解析】考查非谓语动词。根据空前的actively可知，此处应用动名词
+participating作介词to的宾语。
+65.issues【解析】考查名词单复数。根据上文中的ahostof(大量的)可知,此处应用名词复数
+issues，意为“议题”。
+说明：1.有拼写或大小写错误的作答不给分。
+2.除所列答案外，若试评过程中发现其他可接受答案，经评卷专家组讨论确认后也可给分。
+写作：
+第一节：
+参考范文:
+Dear Tom,
+How have you been recently. I'm excited to share something about China's National Day
+with you, which is celebrated on October 1st each year. This day marks the founding of the
+People's Republic of China in 1949.
+On this day, we usually have a grand flag-raising ceremony at Tiananmen Square,
+【高三英语·参考答案第7页(共10页)】
+total time: 2.164
+6处理完成
+followed by parades and cultural performances. Cities are beautifully decorated, and
+spectacular fireworks light up the night sky. Families and friends gather to celebrate, creating
+a joyful and festive atmosphere.
+For me, National Day is a time of pride and reflection. It's a moment to appreciate our
+country's achievements and to feel united with fellow citizens. I always look forward to this
+special day.
+Yours,
+Li Hua
+一、评分原则
+1.本题总分为15分，按五个档次进行评分。
+2.评分时，应主要从内容、词汇语法和篇章结构三个方面考虑，具体为：
+(1)对内容要点的覆盖情况以及表述的清楚程度和合理性。
+(2)使用词汇和语法结构的准确性、恰当性和多样性。
+(3)上下文的衔接和全文的连贯性。
+确定或调整档次，最后给分。
+4.评分时还应注意：
+(1)词数少于60个的，酌情扣分。
+(2)单词拼写和标点符号是写作规范的重要方面，评分时应视其对交际的影响程度予以考
+虑。英、美拼写及词汇用法均可接受。
+(3)书写较差以致影响交际的，酌情扣分。
+二、各档次的给分范围和要求
+第五档(13—15分)
+覆盖了所有内容要点，表述清楚、合理。
+有效地使用了语句间衔接手段，全文结构清晰，意义连贯。
+完全达到了预期的写作目的。
+第四档(10—12分)
+覆盖了所有内容要点，表述比较清楚、合理。
+-使用了比较多样并且恰当的词汇和语法结构，可能有些许错误，但不影响理解。
+比较有效地使用了语句间衔接手段，全文结构比较清晰，意义比较连贯。
+达到了预期的写作目的。
+第三档(7—9分)
+覆盖了大部分内容要点，有个别地方表述不够清楚、合理。
+使用了简单的词汇和语法结构，有一些错误或不恰当之处，但基本不影响理解。
+基本有效地使用了语句间衔接手段，全文结构基本清晰，意义基本连贯。
+【高三英语·参考答案第8页(共10页)】
+total time: 2.020
+7处理完成
+基本达到了预期的写作目的。
+第二档(4一6分)
+一遗漏或未清楚表述一些内容要点，或一些内容与写作目的不相关。
+-所使用的词汇有限，语法结构单调，错误较多，影响理解。
+一几乎不能有效地使用语句间衔接手段，全文结构不够清晰，意义不够连贯。
+未能达到预期的写作目的。
+第一档(1—3分)
+遗漏或未清楚表述大部分内容要点，或大部分内容与写作目的不相关。
+一所使用的词汇有限，语法结构单调，错误很多，严重影响理解。
+一几乎没有使用语句间衔接手段，全文结构不清晰，意义不连贯。
+完全未达到预期的写作目的。
+零分
+未作答；所写内容太少或无法看清以致无法评判；所写内容与题目要求完全不相关。
+第二节：
+参考范文：
+On the night of my birthday, I found a postcard in my drawver of my dormitory.
+When I checked it, I saw a row of familiar handwriting. “Sorry for the trouble I caused.
+Happy birthday! Your friend, Alex. ” Wonderful memories of our friendship flooded back,
+and a surge of warmth filled me. I realized that I, too, needed to make amends. It was a
+heartfelt reminder of the good times that we had shared, from late-night study sessions to
+weekend adventures. I felt a deep sense of regret for letting a small misunderstanding strain
+our bond.
+I came over to Alex with my newly bought book. With a lump in my throat, I bravely
+expressed my feelings, saying, “Sorry for my unfriendliness. Here is your favourite book!"
+Hearing my words, Alex smiled, with his eyes sparkling with excitement. He took the new
+book, and I knew we were still good friends. From that day on, no matter who was on duty in
+the dormitory, we both made an effort to keep the toiletries in order. For me, this experience
+taught me that mutual understanding and respect are the key to maintaining harmonious
+relationships.
+一、评分原则
+1.本题总分为25分，按五个档次进行评分。
+2.评分时，应主要从内容、词汇语法和篇章结构三个方面考虑，具体为：
+(1)创造内容的质量，续写的完整性以及与原文情境的融洽度。
+(2)使用词汇和语法结构的准确性、恰当性和多样性。
+(3)上下文的衔接和全文的连贯性。
+【高三英语·参考答案第9页(共10页)】
+total time: 2.311
+8处理完成
+确定或调整档次，最后给分。
+4.评分时还应注意：
+(1)词数少于120个的，酌情扣分。
+(2)单词拼写和标点符号是写作规范的重要方面，评分时应视其对交际的影响程度予以考
+虑。英、美拼写及词汇用法均可接受。
+(3)书写较差以致影响交际的，酌情扣分。
+二、各档次的给分范围和要求
+第五档(21—25分)
+创造了丰富、合理的内容，富有逻辑性，续写完整，与原文情境融洽度高。
+-一使用了多样并且恰当的词汇和语法结构，可能有个别小错，但完全不影响理解。
+-有效地使用了语句间衔接手段，全文结构清晰，意义连贯。
+第四档(16—20分)
+创造了比较丰富、合理的内容，比较有逻辑性，续写比较完整，与原文情境融洽度较高。
+一使用了比较多样并且恰当的词汇和语法结构，可能有些许错误，但不影响理解。
+比较有效地使用了语句间衔接手段，全文结构比较清晰，意义比较连贯。
+第三档(11—15 分)
+创造了基本合理的内容，有一定的逻辑性，续写基本完整，与原文情境相关。
+使用了简单的词汇和语法结构，有一些错误或不恰当之处，但基本不影响理解。
+基本有效地使用了语句间衔接手段，全文结构基本清晰，意义基本连贯。
+第二档(6—10 分)
+一内容或逻辑上有一些重大问题，续写不够完整，与原文情境有一定程度脱节。
+所使用的词汇有限，语法结构单调，错误较多，影响理解。
+一未能有效地使用语句间衔接手段，全文结构不够清晰，意义不够连贯。
+第一档(1—5分)
+-内容或逻辑上有较多重大问题，或有部分内容抄自原文，续写不完整，与原文情境基本
+脱节。
+一一几乎没有使用语句间衔接手段，全文结构不清晰，意义不连贯。
+零分
+未作答；所写内容太少或无法看清以致无法评判；所写内容全部抄自原文或与题目要求完
+全不相关。
+品品
+【高三英语·参考答案第10页(共10页)】
+total time: 1.924
+9处理完成
+
+Process finished with exit code 0
